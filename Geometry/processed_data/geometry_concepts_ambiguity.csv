@@ -1,0 +1,90 @@
+,concept,key_terms
+0,Translation (geometry),vector displacement|translational motion|translate|translation matrix|slide|translation|translation group
+1,Pyramid (geometry),geometric pyramid|snub tetrahedral pyramid|decagonal pyramid|polyhedral pyramid|dodecagonal pyramid|right pyramid|oblique pyramid|pyramid|trigonal pyramid|snub cubic pyramid|tetradecagonal pyramid|regular pyramid|quadrilateral pyramid|snub dodecahedral pyramid|star pyramid|hexadecagonal pyramid|triangular pyramid
+2,Right triangle,right triangle|rectangular triangle|right-angled triangle|right angle triangle|right angled triangle
+3,Rotational symmetry,axisymmetrical|symmetry axis|trilateral symmetry|axisymmetric|rotation symmetry|rotational symmetry|rotational symmetric|rotational symetry|axisymmetry|rotational symmetries|axis of symmetry
+4,Heptagon,heptagon|septagon|regular heptagon|heptagonal|7-gon
+5,Face (geometry),hedra|10-face|6-face|peak|teron|5-face|ridge|8-face|4-face|face|2-face|polyhedron face|7-face|polygonal face|hypercell|k-face|faces|9-face|cell|3-face|polytope face
+6,Triangle inequality,the triangle inequality|triangle inequality|triangular inequality|reverse triangle inequality|triangle inequality theorem|triangular inequalities|inverse triangle inequality
+7,Kite (geometry),dart|kite|geometric kite|deltoid
+8,Exterior angle theorem,exterior angle theorem|remote interior angle theorem
+9,Space (mathematics),mathematical space|space
+10,Rotation (mathematics),coordinate rotation|user:johnblackburne/3d|rotation|rotation operator
+11,Scaling (geometry),scale matrix|scaling matrix|scaling|inhomogeneous dilation|uniform scaling
+12,Nonagon,enneagon|nonagon|nine|law of nine|nonogon|regular nonagon|regular enneagon|9-gon|enneagram of process|nine-pointed star
+13,Coordinate system,coordinate surfaces|coordinate lines|change of coordinates|spatial coordinates|coordinate axis|coordinate system|coordinate surface|cooerdinate|co-ordinate|coördinate system|coord|coordinate transformation|spheroidal coordinates|coördinate|coordinates|coordinate frame|negative distance|origin of coordinates|coordinate line|co-ordinate system|coördinates|coordiante|cartesian/polar|coordinate change|system of coordinates|co-ordinates|coordinate transformations|coordinate systems|coordinate|coordinate hypersurface
+14,Collinearity,collinear|collinearity|collinear vectors
+15,Slope,steepest|steeper|rise over run|steepnesses|steepness|slope|slope of a line|gradient of a line|slopes|rise and run|slope formula|steeply|x slope|⌳|δy/δx|slope of a graph|steep
+16,Quadrilateral,quadrilaterals|quadragon|4-gon|maltitude|quadragonal|irregular quadrilateral|butterfly-quadrilateral|tetragon|cross quadrilateral|quadrilateral|quadrilateralness|quadrialateral|bowtie-quadrilateral|crossed-quadrilateral|cross-quadrilateral
+17,Angle,vertical angle|∠|supp. ∠s|opposite angles|vert. opp. ∠|supplemental angle|complamentary angle|ajacent angels|types of angles|reflex angle|plane angle|bow tie angle|supplementary angles|suplementary angles|negative angle|supplementary ∠s|vertically opposite angle|plane angle measure|straight angle|vertically opposite angles|vertical|obtuse angle|complementary ∠|angle measure|complementary angle|∢|ângulo|positive angle|vert. opp. ∠s|∡|angle|adjacent angles|angular measure|adj. ∠s on st. line|supplementary angle|ángulo|complementary angles|angulate|supplementary ∠|angular measurement|coterminal angles|acute angle|vinkel|oblique angle|vertical angles
+18,Congruence (geometry),congruence|side side side|side-side-side congruence|hypotenuse leg|ass theorem|aas theorem|congruence axioms|equality|congruent triangle|asa theorem|congruent triangles|side angle side|axioms of congruence|criteria of congruence of angles|≋|triangle congruence|congruence axiom|aaa theorem|congruent angles|congruence in geometry
+19,Polygon,hecatogon|polygon area|adjacent side|1000-gons|enneahectagon|polygonal area|heptahectagon|n-gon|pentahectagon|heptacosigon|2-polytope|hexacosigon|polygon|diacosigon|2-dimensional polytope|triacosigon|dihectapentacontakaiheptagon|hexahectagon|polygons|dischiliagon|tetrakischiliagon|polygon vertex|icosimonogon|names of polygons|pentacosigon|tetrahectagon|all the 2d shapes|polygon diagonal|convex & concave polygons|polygon diameter|irregular polygon|polygon edge|regular nonagon|irregular polygons|tetracosigon|polygonal|polygonal region|pentakischiliagon|tricosagon|trischiliagon|n-gons|octahectagon|trihectagon|enacosigon|ngon|octacosigon|dihectagon
+20,Dodecagon,regular dodecagon|12-gon|dodecagonal|duodecagon|dodecagon
+21,Cone,⌲|base radius|conical|conical taper|cone|cone-shaped|cones|elliptical cone|circular cone|polyhedral cone|generalized cone|conic solid|right circular cone
+22,Rectangle,crossed-rectangle|rectangles|equiangular quadrilateral|oblong|crossed rectangle|rectangle|rectangular|saddle rectangle
+23,Trapezoid,⏢|trapesium|trapeziod|trapezoids|trapezium|trapesiod|trapezium formula|area of a trapezoid|midsegment of a trapezoid|trapaezoids|trapezoid|trapeziform|trapezoidal|trapizoid|trapazoid|right trapezoid
+24,Pentagon,pentagon|pentagons|regular pentagon|5-gon|pentagonal
+25,Parallelogram,parrallellograms|paralelagrams|parallellagrams|area of a parallelogram|diags. of //gram|parralellogram|paralelagram|diags. bisect each other|parralelogram|parralellagrams|parrallelagram|parrallelogram|parralelograms|parrallelograms|paralelograms|paralellagram|parrallellogram|▱|parrallellagrams|opp. angles equal|parralelagram|paralelogram|parallelograms|parralelagrams|parallelagrams|parralellagram|parallelogram|parallellograms|▰|parrallelagrams|paralellograms|parallellagram|parallelagram|paralellogram|opp. angles of //gram|parralellograms|paralellagrams|parallellogram|parrallellagram
+26,Right angle,90 degree angle|∟|ninety degrees|90°|square angle|⦜|right-angle|right angle|right angles|90 degrees|⦝|⊾|ninety-degree angle
+27,Symmetry,symmetry transformation|symmetry and asymmetry|symmetrical|scale symmetry|symetrical|symmetric|symmetry principles|chemical symmetry elements|symmetry|symettry|symmetries|musical symmetry|planar symmetry|quadrilateral symmetry|⌯|symmetric property|helical symmetry
+28,Octagon,rectagon|regular octogon|ovtagon|octagons|8-gon|regular octagon|tetrambus|octogon|octagon|octangle|octagonal
+29,Sphere,orb|géosphère|globose|spherical surface|topological sphere|2-sphere|spherical|x^2+y^2+z^2=r^2|hemispherical|two-dimensional sphere|spheric section|maschler space|spherical product|volume of a sphere|surface area of a sphere|spheres|s²|two-sphere|sphere
+30,Similarity (geometry),similar shapes|similitude|similarity transformation|similarity|aaa theorem|similar polygons|similar polygon|similar triangles|similar figures|similar triangle
+31,Equilateral triangle,equalateral triangle|equilateral|equilateral triangle|regular triangle|equilateral triangles|equalangular triangle|equiangular triangle
+32,Hexagon,hexagon|equilateral hexagon|truncated triangle|hexagone|hexagonal|6-gon|sexagon|hexgon|regular hexagon|triambus|hexagons|hexagonal figure
+33,Distance,distance in time|directed distance|time distance|distance|distances|algebraic distance|proximities|distance formula|equi-distant
+34,Cylinder (geometry),cylinder|right cylinder|zylinder|cylindrical|elliptic cylinder|polyhedral cylinder|right circular cylinder|parabolic cylinder|⌭|pi r cubed|cylindre|cylindrical surface|rod|oblique cylinder|volume of a cylinder|circular cylinder|cylindricity
+35,Reflection symmetry,axes of symmetry|plane of symmetry|line of symmetry|line symmetry|reflection symmetry|reflection symmetries|reflectional symmetry
+36,Scale factor,scale factor
+37,Geometry,geometry|geometrically|geomertry|geometrical property|geometic|geometric properties|elementary geometry|geometric features|geometrical|geometric|geometery
+38,Edge (geometry),1-simplex|polytope edge|edge|1-face|polyhedron edge
+39,Skew lines,skew line|skew flats|skew lines|skew straight lines
+40,Circle,secant-secant theorem|circum|equation of a circle|nexua|area circle|circles|circle geometry|360 degrees|1-sphere|circle|cirlce
+41,Tessellation,tessellated|plane tiling|tessellates|tiling|tesellating|shape tessellations|tessellate|tessallation|teselating|tesselating|tesalate|tessellation of the sphere|monohedral tiling|colored tiling|tesellation|hirschhorn tiling|tesselate|edge-to-edge tiling|tesselation|neat tiling|mathematical tiling|tesellate|tiling the plane|tessalate|tiling of the plane|euclidean tiling|tessellating|tessellations|teselation|teselate|tessellation|tesallation
+42,Circumference,c=2*pi*r|c=pi*d|circumference|circumference circle|circumfrence|circumference of a circle|around circle|perimeter of a circle|circumferance|around a circle
+43,Special right triangles,right angle triangle|special right triangles|special right triangle|right triangle
+44,Grade (slope),slope|road gradient|grade|mountain grade|percent grade
+45,Convex polygon,strictly convex polygon|convex shape|convex polygon
+46,Star polygon,seven-pointed star|star shape|nonconvex regular polygon|eight-pointed star|six-pointed star|six pointed star|star polygon|regular star polygons|star
+47,Acute and obtuse triangles,obtuse triangle|acute and obtuse triangles|acute triangle|oblique triangle
+48,Rigid transformation,rototranslation|euclidean transformation|roto-translation|rigid transformation
+49,Radius,curve radii|radii|radius
+50,Secant line,secant|secant line|secantial
+51,Self-similarity,self similar|self similarity|selfsimilar|self-similarity|self-similar
+52,Midpoint,class mark|midpoint|midpoint formula
+53,Line (geometry),half-line|horizontal line|straightness|co-linear|line|straight lines|hyperpoint|lineaments|linear curve|collinear points|mathematical formula for a line|megalineament|straight-line|ray|non-collinear points|lineamentation|euclidean line|dimension line|half line|lineamental|mathematical line|straight line
+54,Sine,sine
+55,Transversal (geometry),corresponding angles|transversal|corresponding angle|alternate angle|alternate angles|transversal line
+56,Cross section (geometry),cross-section|cross sectional area|cross section|tvärsnitt
+57,Point (geometry),0-simplex|point
+58,Tangent,tangentially|point of tangency|tangency|tangent|tangent line problem|tangents|tangent point|tangent problem|tangential|tangent line
+59,Diameter,diamètre|diameter|diameter of a point set|⌀|diametre|diameter sign|diameters|diameter symbol
+60,Diagonal,superdiagonal|diagonals|off-diagonal|diagonal|diagnal|diagonal of a matrix|subdiagonal
+61,Plane (geometry),infinite plane|intersection of two planes|mathematical plane|plane|the plane
+62,Angle bisector theorem,angle bisector theorem
+63,Vertex (geometry),geometric vertex|mouth|polyhedron vertex|polytope vertex|0-face|principal vertex|vertex|ear
+64,Pythagorean triple,platonic sequence|pythagorian triple|pythagorean triad|pythagorean triples|pythagorean triangle|pythagorean triple|pythagorean triplets|pythagorean right triangle|primitive pythagorean triple|pythagorean triplet|euclid's formula
+65,Altitude (triangle),orthic triangle|altitude length|altitude|orthocenter|altitude triangle|orthocentre|altitude of a triangle|height
+66,Isosceles triangle,isosceles triangle|isosceles|isoceles triangle|isoceles|isosceles triange
+67,Inverse trigonometric functions,inverse cotangent|inverse cosecant|acos|arccosecant|arccsc|arccotangent|csc-1|cot−1|inverse sine|csc−1|tan−1|inverse secant|arctangent|arc cotangent|inverse trigonometric functions|arcctg|inverse trigonometric function|arctan|cyclometric functions|sec-1|inverse tangent|arccosec|arc tangent|arctg|cyclometric function|arc sine|arc cosecant|arcsin|arccos|arc cosine|arcsecant|inverse cosine|arc functions|tan-1|arc function|inverse trigonometric cofunctions|sec−1|arccot|arcsine|arccosine|sin−1|arc secant
+68,Prism (geometry),prismatic polytope|oblique prism|general prism|polyhedral prism|pentadecahedron prism|hyperprism|tetradecagonal prism|tridecagonal prism|uniform prism|pentadecagonal prism|prism|twisted prism|right prism
+69,Hendecagon,eleven-gon|11 sided figure|regular hendecagon|hendecagon|undecagon|11-gon
+70,Arc (geometry),arc shaped|great arc|◜|◝|curved line segment|arc|curve segment|◞|◟|circular arc|⌒|◠|◡|major arc
+71,Reflection (mathematics),mirror plane|reflector|flip|elementary reflector|reflection|reflective symmetry
+72,Line segment,segment|1-ball|straight line segment|line-segment|linestring|open line segment|line segments|closed line segment|line segment|half-open line segment
+73,Bisection,exterior bisector|line segment bisector|perpendicular bisector|internal bisector|perimeter bisector|angle bisector|right bisector|right bisec|diagonal bisector|bisect an angle|aliquant bisector|bisection|bisectrix|angle bisectors|perpendicular bisectors of a triangle|area bisector|bisections|segment bisector|external bisector|interior bisector
+74,Square,regular quadrilateral|🔳|🔲|square|2-orthoplex|▪|⬛|hypocube|crossed square|2-hypercube|squarest|2-cube|hyperline|squarer|⬜|squares
+75,Two-dimensional space,two dimension|two-dimensional space
+76,Chord (geometry),krd|crd|chord
+77,Perpendicular,perpendicular lines|perpendiculars|perpendicularity|⦹|perpendicularity symbol|perpendicular line|perpendicularly|perpendicular symbol|perpendicular|foot of the perpendicular|⟂
+78,Cartesian coordinate system,coordinate axes|3d coordinate system|cartesian planes|cartesian co-ordinator|cartesian dimensions|x axis|3-d cartesian coordinate system|coordinate plane|cartesian space|cartesian plane|x-y plane|xy plane|z axis|y-axis|rectangular coords|vertical axis|y axis|rectangular coordinate system|cartesian plain|cartesian dimension|applicate|cartesian co-ordinates|cartesian equation|3d cartesian coordinate system|first quadrant|position coordinate|rectangular coordinates|cartesian coordinates|3-d coordinate system|first quadrants|right-handed coordinate system|z-axis|cartesian orthogonal coordinate system|x-axis|axis|cartesian coordinate system|3-dimensional coordinate system|cartesian coordinate|euclidian coordinate system|cartesian coordinate plane|horizontal axis|xy-coordinate system|3-d graph|3 dimensional coordinate system|quadrant
+79,Triangle,triangular|triangle geometry|rectified triangle|sides opposite equal angles|adjacent side|triangle area|types of triangles|sides opp. eq. ∠s|medians of a triangle|hardcore triangle|3-gon|trangle|isoscoles|scalene triangle|angle proofs|rectangled triangle|triangularity|area of a triangle|triangle|area of triangle|isosceles triangle|triangularly|triangularities|euclidean triangle|triangles
+80,Rhombus,equilateral parallelogram|equilateral quadrilateral|rhombus|romb|rhombi|rhombbi|rhombuses|diamond|rhomb
+81,Polyhedron,polyhedron|polyhedrons|geometric solid|nullitope|3-polytope|polyhedra|polyhedron and polyhedra|polyhedral surface|3-dimensional polytope|chiliahedron
+82,Arc length,length of a curve|chordal distance|chord length|arc length|curvilinear length|rectifiable curve|chord distance|curve length|arclen|infinite length|length of a function|length of arc|length of an arc|non-rectifiable curve|arclength
+83,Parallel (geometry),parallel line|parallel plane|∥|parellel lines|∦|parallel lines|nonparallel|not parallel|parallel propagation|non parallel|parallel planes|parallel|non-parallel|parallel lines and parallel planes|⦷|parallel lines in hyperbolic geometry|⋕|parallela
+84,Pythagorean theorem,pythagorean theorem|pythagoras theorem
+85,Trigonometric functions,trigonometric functions|trigonometry
+86,Concentric,concentric
+87,Decagon,decagon
+88,Internal and external angle,internal angle|internal and external angle|external angle
