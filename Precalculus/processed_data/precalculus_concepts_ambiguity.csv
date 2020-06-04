@@ -1,225 +1,225 @@
 ,concept,key_terms
-0,Cone,right circular cone|conic solid|⌲|cone-shaped|elliptical cone|cone|polyhedral cone|conical|cones|conical taper|generalized cone|circular cone|base radius
-1,Hyperbola,hyperbolic arc|right hyperbola|rectangular hyperbola|hyperbolae|hyperbola|conjugate hyperbola|hiperbola|hyperbolas|equilateral hyperbola
-2,Triangle,adjacent side|triangular|triangularities|euclidean triangle|triangle geometry|area of a triangle|area of triangle|triangles|medians of a triangle|types of triangles|isosceles triangle|isoscoles|isoceles|triangularly|rectified triangle|triangularity|trangle|rectangled triangle|3-gon|scalene triangle|sides opp. eq. ∠s|sides opposite equal angles|angle proofs|hardcore triangle|triangle area|triangle
-3,Calculus,degree of smallness|calc.|advanced functions|early transcendentals|calculus|intro. calc|introductory calculus|lagrange notation for differentiation|single-variable calculus|calculus i|the calculus|intro. calc.|infinitesimal calculus|intro calc|differential and integral calculus|intro calc.|calculus ii|calculus 101
-4,Complex plane,complex plane|gauss plane|complex number plane|real-imaginary plane|argand diagram|argand plane|affine complex plane
-5,Common logarithm,lg|briggs' logarithm|logarithm table|decadic logarithms|decimal logarithm|common log|base-10 logarithm|briggsian logarithms|logarithm of the base 10|base 10 logarithm|briggsian logarithm|log10|common logarithm|log 10|common logarithms|decimal logarithms|decadic logarithm|briggesian logarithms
-6,Exponential growth,geometric rate|exponential increase|increase exponentially|growth formula|exponentially increasing function|grows exponentially|grow exponentially|exponential curve|exponential grow|increases exponentially|exponentially increasing|exponential law|exponential rate|exponential growth|decay formula|geometric growth
-7,Analytic geometry,coordinate geometry|co-ordinate geometry|history of analytic geometry|analytical geometry|analytic geometry|cartesian geometry|analytisk geometri
-8,Injective function,injection|injective|into relation|onetoone|injectivity|one-to-one correlation|one-to-one mapping|injective mapping|↣|injective function|injective relation|one to one function|one-to-one relation|injection function|1 to 1|injective map|one-to-one function
-9,Graph of a function,graph sketching|graph of a function|function graph|important graphing equations|graphs of functions|function graphing|graph
-10,Rational function,rational function|fractional-rational function|rational functions|irrational function|rational formula|rational function field
-11,Floor and ceiling functions,fractional parts|fractional part of a number|floor|ceil function|floor & ceiling functions|⌈x⌉|greatest integer|greatest-integer function|⌊x⌋|integral part|ceiling function|floor and ceiling|ceil|integral value|floor function|floor ceiling|integer part|⌈|floor and ceiling functions|⌋|entier|⌉|greatest integer function|entier function|⌊|fractional part function
-12,Quadratic function,quadratic functions|second degree polynomial|y=ax^2+bx+c|quadratic expression|quadratic trinomial|second order polynomial|quadratic function|second-degree polynomial|second-order polynomial|y=ax2+bx+c|quadratic curve|quadratic polynomial
+0,Cone,cone
+1,Hyperbola,hyperbola
+2,Triangle,triangle
+3,Calculus,calculus
+4,Complex plane,complex plane|argand diagram|affine complex plane|argand plane|real-imaginary plane|gauss plane|complex number plane
+5,Common logarithm,common logarithm|logarithm
+6,Exponential growth,exponential|exponential growth|exponentially increasing
+7,Analytic geometry,analytic geometry|analytical geometry|cartesian geometry
+8,Injective function,injective function|one to one function|injection|injective
+9,Graph of a function,graph|graph of a function
+10,Rational function,rational formula|rational function|rational functions|rational function field
+11,Floor and ceiling functions,ceil|floor and ceiling functions|floor|greatest integer function|ceiling function
+12,Quadratic function,quadratic curve|quadratic function|quadratic|quadratic functions|quadratic polynomial
 13,Unit circle,unit circle
-14,Plane (geometry),mathematical plane|infinite plane|plane|the plane|intersection of two planes
-15,Mathematical induction,"induction|proof by mathematical induction|course-of-values induction|inductive proof|complete induction|strong induction|three forms of mathematical induction|math induction proof|by induction|mathematical proof by induction|induction hypothesis|double induction|course of values induction|proof of mathematical induction|induction proof|math induction|mathematical proof of induction|proof by induction|axiom of induction|induction theorem|proof of induction|principle of induction|basis step|principle of mathematical induction|mathematical induction proof|induction, mathematical|inductive hypothesis|mathematical induction"
-16,Rectangle,equiangular quadrilateral|rectangle|crossed-rectangle|rectangles|rectangular|crossed rectangle|saddle rectangle
-17,Inequality (mathematics),⋖|greater than or equal to|inequalty|inequal|trichotomy property|not equal to|inequality symbol|inequalities|inequality|≯|inequality symbols|≮|more than|much-less-than sign|⋚|⋘|lessthan|much greater than|less than|smaller than|much less than|much-greater-than sign|not equal|inequality signs|greater-than|lesser than|greater than|≦|≤ ≥|power inequalities|≧|less-than|≇|inequality bracket|strict inequality|comparison|inequality brackets|⋙|⋗|less or equal|≪|≫|system of inequalities|≥|inequality sign|less than or equal to|transitive property of inequality|ungleichung
-18,Sine,complex sine|sine|sin x|sinusoida|half chord|sine function|sin z|sin
-19,Amplitude,peak value|amplitudes|peak-to-peak|amplitude|wave amplitude|peak amplitude|pulse amplitude|semi-amplitude|peak to peak
-20,Algebraic equation,nonlinear algebra|algebraic root|algebraic equation|polynomial equations|polynomial equation|algebraic equations
-21,Focus (geometry),focus of a parabola|circular directrix|directrix circle|focus|focal radius
-22,Logistic function,logistic curve|verhulst-pearl equation|sigmoidal curve|logistic sigmoid function|logistic sigmoid|logistic growth|verhulst equation|bisigmoid|expit|logistic growth curve|logistics curve|logistic growth model|s-shape curve|law of population growth|logistic model of population growth|logistics equation|logistics function|logistic function|logistic differential equation|logistical growth|logistic equation
-23,Right angle,90 degree angle|right-angle|right angles|90°|ninety degrees|square angle|ninety-degree angle|right angle|⦜|⦝|90 degrees|⊾|∟
-24,Degree (angle),degree of arc||degrees of arc|angular degree|degree|why a circle was devided in to 360 degrees
-25,Semi-major axis,|average distance|semi-major axis|major axis|semi-major axes|semimajor axis|orbital distance|semi-transverse axis
-26,Binary number,dyadic number system|zeros and ones|dyadic numeral system|binary numeral system|binary calculus|binary division|binary coding|011000100110100101101110011000010111001001111001|base2|generalized binary number|quadrosexagesimal|binary subtraction|binary fraction|binary arithmetic|binary sistem|base two|base-2 number system|binary numeral|binary|binary numbers|binary math|binadd|nkb|binary numbers and letters|base 2|binary system|binary mathematics|binary-to-decimal conversion|binario|binary number|base-2|binary number system|binary counting system|binary representation|binary expansion|binary notation|binary addition|binary multiplication
-27,Mereology,improper part|mereology|part|mereological fusion|proper part
-28,Limit (mathematics),limit|infinite limit|convergence|limit operator|math limit|converge|limit process|mathematical limit|limit function
-29,Solution of triangles,two sides and non-included angle given|solving triangles|solve a triangle|side-angle-side|solutions of triangles|side-side-angle|solution of triangles
-30,Mathematics,mathematik|mathematics|mathematicsandstatistics|mathmetics|mathmatics|mathematical discipline|mathematical research|mathematics and statistics|maths|mathamatics|mathemathics|mathematically|mathematical|change|mathematics research|math facts|mathématiques|mathemetics|matheamtics|methematics|mathematic|matemathics|math
-31,Dependent and independent variables,independent variables|dependent variable|extraneous variable|manipulated varrible|response variable|predicted variable|regressor|responding varrable|dependent and independent variables|independant varrible|independent and dependent variables|dependent variables|regressand|controlled variable|explanatory variable|x variable|independant variable|explanatory variables|independent factor|manipulated variable|manipulated varrable|with respect to|y variable|responding variable|independent risk factors|extraneous variables|independent and independent variable|independent variable|target variable|dependant variable|independent risk factor|explained variable|exposure variable
-32,Point (geometry),point|0-simplex
-33,Eccentricity (mathematics),eccentricity|third eccentricity|linear eccentricity|second eccentricity|first eccentricity
+14,Plane (geometry),plane
+15,Mathematical induction,mathematical induction
+16,Rectangle,rectangle
+17,Inequality (mathematics),inequality
+18,Sine,sine
+19,Amplitude,amplitude
+20,Algebraic equation,algebraic equation
+21,Focus (geometry),focal|focus
+22,Logistic function,logistic function|sigmoidal curve|exponential function|logistic
+23,Right angle,ninety degrees|right angle|ninety-degree angle|90 degrees
+24,Degree (angle),degree|degree-angle
+25,Semi-major axis,major axis|semi-major axis|semimajor axis
+26,Binary number,binary notation|binary arithmetic|binary coding|binary number
+27,Mereology,improper part|mereology|proper part|part|mereological fusion
+28,Limit (mathematics),limit
+29,Solution of triangles,solutions of triangles|solving triangles|solution of triangles
+30,Mathematics,maths|mathematics
+31,Dependent and independent variables,dependent and independent variables|independent variables|dependent variable
+32,Point (geometry),point
+33,Eccentricity (mathematics),eccentricity
 34,Chord (geometry),chord|chord distance
-35,Sine wave,"sine tone|sinusoidal|sine curve|sinewave|sinusoidal curve|sine waves|sign wave|sine-wave|cosine curve|frequency, periodicity, amplitude for sinusoids|sine tones|sine wave|sinusoidal wave|cosine wave|sinusoidal waveform|sinusoidal function|sinusoid|∿|sinusoidally"
-36,Subtraction,resta|subtract|difference|minuend|restar|subtrahend|substraction|subtraction|adding the opposite|mathematic difference
-37,Commutative property,non-commuting|comutative|non-commutative|commutation|non-commutativity|commutative property|commutavity|commutative mathematics|commmutavity|commutative law of multiplication|communative|noncommutativity|commutivity|commutativity|commutative law|noncommuting|commute|commutative operation|noncommutative|the commutative property|commutative|commutitivity
-38,Algebra,aljebra|algebra|intermediate algebra|cossic art|al-gebra|algebraist|stochastic process algebra|algebras|rule of coss|stochastic process algebras|diagram algebra|diagrammatic algebra|algerbra|algebraic processes
-39,Continuous function,discontinuous function|ε-δ definition|continuous maps|left continuous|continuous function|noncontinuous function|continuity|real-valued continuous functions|continuous map|continuous fctn|sequential continuity|continuous|continuous space|continuity space|e-d definition|cts fctn|right-continuous|continuous mapping|sequentially continuous|continuous relation|continuity property|continuous functions|left-continuous|topological continuity|c^1|continuous binary relation|discontinuity set|stepping stone theorem|right continuous
-40,Vector space,linear space|complex vector spaces|field of scalars|vector spaces|vector theory|vectorspaces|space vector|vectorspace|vector space|real vector|complex vector|linear vector space|vectors and scalars|vectorial space|space-vector|general vector space|complex vector space|real vector space|vector|abstract vector space
-41,Simultaneous equations,exclusion restrictions|x equations y unknowns|simultaneous equations|equation system|systems of equations|simultaneous equation|simeltanious equations|system of equations|simultaneous linear equation
-42,Associative property,left associative operator|associative law|associativity|associative property|associativty|associative multiplication|association|ascociative|generalized associative law|non-associativity|nonassociative|associative|associative operation|non-associative
+35,Sine wave,sine-wave|sine wave
+36,Subtraction,subtract|subtraction
+37,Commutative property,commutative property|commutative
+38,Algebra,algebra
+39,Continuous function,continuous function
+40,Vector space,vector space|linear space
+41,Simultaneous equations,system of equations|simultaneous equation|simultaneous equations|systems of equations
+42,Associative property,associative property|association|associative
 43,Fundamental theorem of algebra,the fundamental theorem of algebra|fundamental theorem of algebra
-44,Logarithm,logarithm of a number|anti-logarithm|logarithmic function|antilog|logarithms|base of a logarithm|log-transform|logrithm|logarithim|logarithm base|log function|logarhythm|history of logarithms|logarithmic functions|logarithm table in trigonometry|napier logarithm|logarithmically|㏒|logathrims|antilogarithm|change of base rule|logarithm|log|logarithmic algorithm|logarithmand|logaritm|logarithm function
-45,Simple harmonic motion,simple harmonic oscillator|mass on a spring|simple harmonic motion
-46,Natural logarithm,natural logarithms|base-e logarithm|integrating the derivative of the logarithm of a function|ln|log natural|base e|natural logarithm|㏑|natural logarithm integral condition|hyperbolic logarithms|natural log|ln x|hyperbolic logarithm
-47,Trigonometric functions,tangens|kosekans|sine of x|tangent function|kotangens|trigonometric functions|sin-cos-tan|sekans|circular functions|cotangent|tan|complex sine and cosine|kosinus|sine cosine tangent|cosinus|tangent|trig ratios|trigonometric function|logarithmic tangent|sin cos tan|sine-cosine-tangent|logarithmic sine|wrapping functions|sin^2|the law of cosines|the law of sines|sinx|cosine of x|cosine function|trigonometricfunctions|trig functions|prosthaphaeresis formulas|cosecant|wrapping function|trig function|trigonometry table|cosec|cosine|circular trigonometric function|secant function|trigonmetic function|circular function|cos
-48,Ellipse,elliptical|orbital circumference|semi-ellipse|gardener's ellipse|orbital area|elliptic|auxiliary circle|eliptic|eliptical|ellipse
-49,Domain of a function,codomain space|replacement set|domain of a function|function domain|function restriction|natural domain|restricted function|domain of definition|domain|restriction of a function
-50,Product topology,tikhonov product|tychonoff topology|product|product space|tychonov topology|product topology|topological product
-51,Inverse trigonometric functions,arccsc|arc sine|arc function|csc−1|cyclometric function|inverse trigonometric function|arc functions|arc secant|inverse tangent|cyclometric functions|arc cosecant|arccos|arcctg|arctan|arccotangent|tan−1|arctangent|inverse secant|arc tangent|arctg|tan-1|arccosecant|inverse cosecant|arcsin|inverse cotangent|arccot|arcsecant|inverse trigonometric functions|arc cotangent|inverse sine|arccosine|arcsine|inverse cosine|arc cosine|inverse trigonometric cofunctions|sec-1|acos|sin−1|cot−1|arccosec|csc-1|sec−1
-52,Cylinder (geometry),volume of a cylinder|zylinder|cylinder|elliptic cylinder|circular cylinder|cylindricity|cylindrical|⌭|oblique cylinder|right circular cylinder|rod|polyhedral cylinder|cylindrical surface|parabolic cylinder|pi r cubed|right cylinder|cylindre
-53,Imaginary number,imaginary nubers|purely imaginary number|j number|the imaginary number|imaginary number|imaginary axis|imaginary numbers|square root of negative numbers|fake number|powers of i
-54,Pythagorean theorem,pythagorus's theorum|straight line distance|pythagorus's theorem|pythagoras's theorum|gougu|a²+b²=c²|pythagoras’ theorem|a2 + b2 = c2|converse of pyth. thm|pythagoras' theorem|pythagoras' theorem proof|converse of pyth. theorem|gougu theorem|a^2+b^2=c^2|pythagorean theorm|theorem of pythagoras|pythagoras theorem|pythagorean theorem|pythagorean theorum|pyth. thm|pythagorean equation|pythagoreantheorem|pythagorean theory|pythagoras's theorem|pythagorus' theorum|pythagorean formula|pythagoras's law|the pythagorean theorem|a2+b2=c2|pythagoras theory|pyth. theorem|pythagorean theorem proof|a² + b² = c²|pythagorean thm|47th problem of euclid
-55,Complex conjugate,complex conjugate|complex conjugacy|conjugate complex|complex conjugation
-56,Matrix ring,matrix algebra|matrix ring|ring of matrices
-57,Set-builder notation,set abstraction|set comprehension|set builder notation|set-builder|set builder|set-builder notation
-58,Open set,⟃|open set|⟄|open|open superset|open region|open sets|open subsets|open subset
+44,Logarithm,log|logarithm
+45,Simple harmonic motion,simple harmonic oscillator|simple harmonic motion|shm
+46,Natural logarithm,log|natural log|natural logarithm
+47,Trigonometric functions,trigonometric functions|trigonometry
+48,Ellipse,elliptical|eliptical|elliptic|ellipse
+49,Domain of a function,domain|domain of a function
+50,Product topology,product space|product topology|topological product
+51,Inverse trigonometric functions,inverse trigonometric functions
+52,Cylinder (geometry),cylinder
+53,Imaginary number,complex number|imaginary number
+54,Pythagorean theorem,pythagoras|pythagoras' theorem|pythagorean theorem
+55,Complex conjugate,conjugate complex|complex conjugation|complex conjugacy|complex conjugate
+56,Matrix ring,matrix ring|matrix algebra|ring of matrices
+57,Set-builder notation,set builder notation|set-builder notation|set-builder
+58,Open set,open set|open subset
 59,Binomial,binomials|binomial
-60,Rotation (mathematics),coordinate rotation|rotation operator|rotation
-61,Constant function,constant map|identically zero|constant function|constant polynomial|constant functions and continuity
-62,Circle,area circle|1-sphere|circle|⚪|equation of a circle|circum|360 degrees|nexua|secant-secant theorem|⭕|cirlce|circles|circle geometry|x^2+y^2
-63,Binomial theorem,multi-binomial theorem|binomial theory|catalon series|binomial expansion theorem|binomial theorem|binomial expansions|binomial formula|binomial expansion|negative binomial theorem
-64,Monomial,monomial|degree of a monomial|monomials|simple expression|mononomial|power product
-65,Closed set,closed|closed subset|closed sets|closed set
-66,Identity (mathematics),identity|equiv|identities|identically equal|mathematical identity|mathematical identities|algebraic identity|algebraic identities
-67,Square (algebra),x^2|^2|²|square|square function|second power|squared
-68,Maxima and minima,global minimum|max and min|minimum|min and max|extremum|local minima|maxima and minima|local minimum|global maximum|maximize|minima|minimize|global extremum|relative maxima|relative maximum|relative extrema|local maximum|absolute extremum|maxima & minima|miminum|absolute extreme|extreme record|maximum|minima and maxima|local maxima|local extremum|local extrema|extreme value
-69,Dot product,standard inner product|dot product|hermitian inner product|dot-product|vector dot product|dotproduct|scalar product|scaler product|dot products
-70,Mathematical proof,proof method|derivation|skipped step|proof|demonstration|methods of proof|computer proof|mathematical proof|proof techniques|theorem-proving|proving|essential step|two-column proof|mathing|maths proofs|mathematical proofs|theoremproving
-71,Series (mathematics),partial sums|remainder term|absolut convergence|mathematical series|infinite sum|sequence of series|series|partial sum|summable sequence|series term|sum of series|infinite series
-72,Natural number,ottffssent|counting numbers|nonnegative integer|history of numbers|whole numbers|ℕ|natural numbers|von neumann natural numbers|natural integer|von neumann natural number|whole number|positive integers|unnatural numbers|non-negative integer|counting number|positive integer|natural number|unnatural number
+60,Rotation (mathematics),rotation
+61,Constant function,constant functions and continuity|constant map|constant function|identically zero|constant polynomial
+62,Circle,circle
+63,Binomial theorem,binomial expansions|binomial expansion|binomial expansion theorem|binomial theory|binomial formula|binomial theorem
+64,Monomial,simple expression|mononomial|degree of a monomial|power product|monomials|monomial
+65,Closed set,closed set|closed subset|closed sets|closed
+66,Identity (mathematics),identity
+67,Square (algebra),square
+68,Maxima and minima,minima|relative extrema|minimum|maximum|maxima|maxima and minima|extreme value
+69,Dot product,hermitian inner product|scalar product|vector dot product|dot product
+70,Mathematical proof,proof|mathematical proof
+71,Series (mathematics),series
+72,Natural number,natural number
 73,Base (exponentiation),base
 74,Sum,sum
-75,Summation,mathematical sum|sums|sigma notation|capital-sigma notation|sum of|⎳|⅀|sumtotal|sum|sum symbol|summation sign|∑|algebraic sum|sum identities|summation|sumation|summation number|summation identities|capital sigma notation|⎲
-76,Angle,supplementary ∠s|angular measure|acute angle|supp. ∠s|vertical angles|ángulo|angle|straight angle|complamentary angle|complementary angles|vertically opposite angle|supplementary angle|obtuse angle|supplemental angle|types of angles|positive angle|reflex angle|suplementary angles|angle measure|angular measurement|supplementary angles|plane angle measure|adj. ∠s on st. line|vinkel|ângulo|vertically opposite angles|bow tie angle|vert. opp. ∠s|supplementary ∠|adjacent angles|ajacent angels|∢|∠|complementary angle|oblique angle|coterminal angles|vertical angle|vertical|plane angle|opposite angles|complementary ∠|vert. opp. ∠|negative angle|∡|angulate
-77,Semi-minor axis,minor axis|conjugate axis|semi-axis|semi-minor axis|semi-conjugate axis|semiminor axis
-78,Law of sines,sine formula|sine law|sine rule|law of sines|law of the sines|ambiguous case|sine theorem|spherical law of sines|sin rule|sines law
-79,Line segment,1-ball|half-open line segment|open line segment|segment|line segments|line segment|closed line segment|linestring
-80,Graph (mathematics),finite graph|multiple edge|incident|points and lines|graph|nonadjacent|graph node|edge|non-adjacent|simple graph|adjacency relation|order|finite undirected graph|size|undirected|undirected graph|trivial graph|edge-weighted graph
-81,Multiplicative inverse,reciprocal second|⅟|multiplicative inverse|reciproc|reciprocal function|inverse seconds|reciprocal|1/x
-82,Empty set,void set|nonempty set|empty set|non-empty|non-empty subset|non-empty set|⦰|non empty|no solution|nonempty|empty subset|∅
-83,Division (mathematics),delen|matrix division|integer division|⊘|short divison|divided|dividend|left divide|divided by|division
-84,Slope,steep|steepness|slope of a graph|steeper|slope formula|slopes|steepest|slope|x slope|rise and run|slope of a line|δy/δx|rise over run|steepnesses|steeply|⌳|gradient of a line
-85,Interval (mathematics),semi-open interval|half-closed interval|range notation|bounded interval|interval on the real line|interval notation|dyadic interval|open interval|half-open interval|interval|closed interval|interval of the real line
-86,Zero of a function,x-intercept|real zero|root of a function|root of a polynomial|real root|zero of a function|vanish|polynomial roots|zeros of a function|roots of a function|vanishing function
-87,Perpendicular,perpendicularity|⦹|perpendicular lines|foot of the perpendicular|perpendicular|⟂|perpendiculars|perpendicular line|perpendicular symbol|perpendicularly|perpendicularity symbol
-88,System of linear equations,simultaneous linear equations|ax=b|linear equation system|ax=0|inconsistent equations|linear simultaneous equations|homogeneous linear equation|vector equation|consistent equations|systems of linear equations|homogeneous system|system of linear equations|linear system of equations|homogeneous equation
-89,Polynomial,polynomial map|polynomial notation|real polynomial|zero polynomial|order and degree of polynomial|standard form of a polynomial|quadranomial|polynomial functions|polynomials|linear polynomial|polynomial function|polynomial expression|univariate polynomial|polynomial curve|simple root|multivariate polynomial|quadnomial|complex polynomial|polynomial
-90,Negative number,negative and nonnegative numbers|negative and non-negative numbers|negative negative number|negative numbers|positive data|history of negative numbers|negative negative numbers|negative number|negative negative|directed number|antinumber
-91,Mathematical analysis,math analysis|analysis|mathematical analysis|hard analysis|classical analysis
-92,Geometric series,geometric sum|infinite geometric series|geometric series
-93,Conic section,quadratic plane curve|semilatus rectum|directrix|conic sections|semi-latus rectum|conic sections in polar coordinates|conics intersection|conic section|conic equation|latus rectum|conic|dual conic|directrix of a conic section|conics|focal parameter
-94,Operation (mathematics),math operations|operation|math operation|mathematical operations|mathematical operation
-95,Extended real number line,extended real numbers|extended real number line|extended reals|affinely extended real number line|affinely extended real numbers|minus infinity|affine infinity|affinely extended real number system|extended real|−∞|-∞|negative infinity|extended real number|extended number|+∞|exended real|positive infinity|extended real line|upper-extended real line
-96,Set (mathematics),number set|number sets|crisp set|basic set operations|set|set logic|finite subset|mathematical set|conventional set
-97,Invertible matrix,non-singular matrix|singular matrices|nonsingular|matrix inverse|degenerate metric|invertible matrices|matrix inversion lemma|invertible matrix|nonsingular matrix|inverse matrices|invert matrix|inverse of a matrix|invertibility|reciprocal matrix|matrix singularity|nonsingular matrices|degenerate matrix|matrix inversion|invertable matrix|inverse matrix|matrix 1-inverse|invertible matrix theorem
-98,Length,length|length dimension|legnth|lenght|breadth|width|lengths
-99,Norm (mathematics),euclidean norm|equivalent norm|magnitude|2-norm|l2 norm|normable topology|l2 distance|semi-normable|p norm|pseudonorm|complex norm|equivalent norms|vector norm|seminormed space|zero norm|l² norm|semi-norm|semi-norms|semi norm|vector length|norm|l0 norm|normable|arithmetic norm|gauge|seminorm|norm mathematics|seminormable
-100,Binary logarithm,binary logarithm|log2|logarithm of the base 2
-101,Division by zero,÷ 0|x÷0|1/0|dividing by 0|x/0|zero denominator|/0|zero division|÷0|division by zero|divide by 0 error|divide by 0|a/0|dividing by zero|divide with zero|zero divided by zero|division by 0|divide-by-zero|one over zero|divide by zero error
-102,Sign (mathematics),sign|signed|positive number|negativity|non-negative|non-positive|non-positive number|nonpositive|positive and negative numbers|positivity|non-negative number|nonnegative|sign of zero|nonnegative number|positive and negative|negative and positive numbers|signs|signed number|positive
-103,Algebraic expression,rational expression|rational equation|algebraic formula|algebraic expression
+75,Summation,sums|∑|sigma notation|sigma|summation
+76,Angle,angle
+77,Semi-minor axis,conjugate axis|semi-conjugate axis|semi-minor axis|minor axis|semi-axis|semiminor axis
+78,Law of sines,sines law|sine theorem|law of sines|sine rule|sine law
+79,Line segment,line segment|segment
+80,Graph (mathematics),graph
+81,Multiplicative inverse,reciprocal function|reciprocal|multiplicative inverse
+82,Empty set,void set|non-empty set|non-empty|non empty|nonempty|empty set|empty subset
+83,Division (mathematics),divide|division
+84,Slope,slope|slop
+85,Interval (mathematics),interval|interva
+86,Zero of a function,polynomial roots|zero of a function|roots of a function
+87,Perpendicular,perpendicular
+88,System of linear equations,simultaneous linear equations|linear equation|system of linear equations|linear simultaneous equations
+89,Polynomial,polynomial
+90,Negative number,nonpositive numbers|negative number|negative numbers
+91,Mathematical analysis,analysis|mathematical analysis
+92,Geometric series,geometric sum|infinite geometric series|geometric series|geometric sequence
+93,Conic section,conic section|conic sections|conic
+94,Operation (mathematics),operation
+95,Extended real number line,extended real number line|extended reals|extended number
+96,Set (mathematics),set
+97,Invertible matrix,matrix invertible|invert of matrix|matrix inversion|inverse of matrix|invertible matrix
+98,Length,legnth|length dimension|length|lengths|lenght|width|breadth
+99,Norm (mathematics),euclidean distance|norm
+100,Binary logarithm,log2|logarithm of the base 2|logarithm with base 2|binary logarithm
+101,Division by zero,divided by zero|division by zero|one over zero
+102,Sign (mathematics),sign
+103,Algebraic expression,rational expression|algebraic formula|rational equation|algebraic expression
 104,Square matrix,square matrix|square matrice|square matrices
-105,Polynomial long division,polynomial remainder|polynomial division algorithm|division transformation|polynomial division|polynomial long division
-106,Equation,mathematical equation|÷|⅝|=|csch|＜|arccsch|⁻|﹤|∀|sinh|√2|＝|axioms of an equation|∅|equation|e=mc²|﹥|⅞|solution point|π|arcctg|arctan|tanh|equations|﹢|﹦|e=mc2|coth|＞|⅔|arccosecant|arcsin|arccoth|arccot|ℱ|sech|㏑|cosec|arccosine|⅛|⅜|+|acos|ℂ|⁺|arccosec|≥|axioms of equation
-107,Binomial coefficient,choose operator|combinatorial coefficient|n choose r|binomial coefficients|generalized binomial coefficient|n choose k|choose operation|combinatorial coefficients|binomial coefficient|choose notation|vandermonde convolution formula|choose function|generalised binomial coefficient|vandermonde's convolution formula
-108,Zero (complex analysis),complex zero|order of vanishing|zero
-109,Universal quantification,universal closure|for every|logical universal|forall|for any|universal operator|all|universal quantification|upside-down a|given any|universally quantified|∀|upside down a|universal quantifier|for all|universally quantify
-110,Image (mathematics),preimage|image of|image|inverse image|function image|pre-image
-111,Plane curve,complex plane curve|plane curve|plane curves
-112,Exponential function,complex exponential function|e to the x|e^x|e**x|exponential equations|natural exponential function|exponential equation|real exponential function|cb^x|ⅇ|exponential function|natural exponent|exp|exponentials
-113,Origin (mathematics),coordinate origin|origin|⌱
-114,Symmetry,symmetric property|chemical symmetry elements|⌯|musical symmetry|scale symmetry|symmetries|symmetry transformation|symmetry|symmetrical|symmetric|symmetry and asymmetry|quadrilateral symmetry|symmetry principles|helical symmetry|symettry|symetrical
-115,Coordinate system,coordinate surfaces|origin of coordinates|coordinate frame|coördinates|coordinate transformations|negative distance|change of coordinates|coördinate system|coordinate line|co-ordinate system|coord|coordinate hypersurface|coordinate surface|co-ordinate|coordinate systems|coordinate transformation|coordinate change|system of coordinates|cooerdinate|cartesian/polar|coördinate|coordinate|coordinate lines|coordinates|coordinate axis|spheroidal coordinates|co-ordinates|coordinate system|coordiante|spatial coordinates
-116,Descartes' rule of signs,descartes' sign rule|descartes' rule of signs|descartes rule of sign|descartes rule of signs|rule of signs|descartes' rule of sign|descartes' law of signs|descartes's rule of signs
-117,Function (mathematics),funktion|y=f|mathematical function|overriding union|overriding|function of x|⁡|ambiguous function|ƒ|functional relationship|h|f of x|g|domain and range|mathematical functions|function specification|funktionen|function|functions|output|function notation|function theory
-118,Square root,principal square root|second root|square root of polynomial|√ ̅|sq root|principle square root|square root|squareroot|square roots|complex square root|kvadratrot|square root function|power 1/2|double radicals|sqrt|√|⎷|square-root
-119,Radius,radius|radii|sirius b|curve radii
-120,Trigonometry,adjacent side|triangle identities|pretrigonometry|trigometry|choshacao|trigonometry|trignometry|trig|trigonometric ratios|tigonometry|sohcahtoa|soh-cah-toa|trigonometric|trignonmetric ratios|trigonomy|trigonometery|trig.|allied angles|classical trigonometry|soh cah toa|sine squared
-121,Vector field,index of a vector field|vector plot|vector point function|gradient vector field|vector field|vectorfield|f-related|vector fields|gradient flow|tangent bundle section|vector field on a manifold|vector-field
-122,Rationalisation (mathematics),rationalisation|root rationalization|rationalization|root rationalisation
-123,Existential quantification,there exists|∃|∃i|exist|mathematical existence|something|∃e|existential operator|existential quantifier|∄|there exist|existential quantification|existential proposition|existentially quantified|for some|there is a unique
-124,Circular motion,angular motion|circular motion|uniform circular motion|turning motion|radial motion|non-uniform circular motion
-125,Circular sector,sector area|sector of a circle|circle sector|⌔|circular sector
-126,Displacement (vector),pop|displacement vector|displacement
-127,Pythagorean trigonometric identity,pythagorean trigonometric identities|pythagorean identity|pythagorean trigonometric identity
-128,Nth root,root symbol|∜|radikand|surd|n-th root|؇|nth root|radical expression|root|radical root|radiciação|fourth root|properties of radicals|radical symbol|radicand|fifth root|surds and indices|radical sign|sixth root|nth roots
-129,Product (mathematics),product|mathematical product
-130,Cartesian coordinate system,y axis|cartesian co-ordinates|3-d coordinate system|vertical axis|applicate|rectangular coordinate system|right-handed coordinate system|quadrant|y-axis|position coordinate|cartesian dimension|cartesian dimensions|cartesian coordinate system|3d cartesian coordinate system|3-dimensional coordinate system|x axis|rectangular coordinates|cartesian plain|rectangular coords|first quadrant|3-d graph|3d coordinate system|3 dimensional coordinate system|coordinate plane|3d graph|x-y plane|cartesian space|cartesian coordinates|cartesian equation|cartesian coordinate plane|cartesian planes|x-axis|coordinate axes|xy plane|axis|cartesian co-ordinator|cartesian orthogonal coordinate system|z axis|cartesian plane|first quadrants|3-d cartesian coordinate system|z-axis|horizontal axis|cartesian coordinate|xy-coordinate system
-131,Rational number,nombre rationnel|rationalnumbers|rational number field|field of rationals|rationals|rational numbers|liczby wymierne|ℚ|rational number|rational field
-132,Position (vector),location vector|position function|radius vector|position vector|point vector|position
-133,Equation solving,solving an equation|solving equations|equation solving|mathematical solution
-134,Algebraic operation,algebraic operations|algebraic operation
-135,Even and odd functions,odd and even functions|odd functions|even function|even and odd functions|even/odd function|odd function|even functions
-136,Number,twenty-one|twenty-six|six|zero|number system|five|eighteen|the 95 theses|90-90 rule|14 days in may|twenty-five|three|one|numbers and numerals|seventeen|nine|number systems|two|thirteen|numbers|twenty|0123456789|eleven|twelve|numer|números|nineteen|one thousand seven hundred twenty nine|numerical value|fourteen|number|numeros|one hundred|sixteen|twenty-three|one hundred and one|twenty-eight|fifteen|twenty-seven|twenty-nine|ten|twenty-two|four|far cry four|seven|twenty-four|thirty
-137,Multiplication,mutiplication|⋅|product of a sequence|multiplikator|capital-pi notation|arithmetic/multiplication|multiply|pi notation|dot operator|product sign|times|multiplication|quadrupling|∏|capital pi notation|multiplied|integer multiplication|multiplier|product of two negative numbers|multiplikand|multiplied by|timesing|multiplicand
-138,Union (set theory),finite union|set-theoretic union|set theoretic union|infinite union|infinite unions|⋃|finite unions|set union|union|∪|union of sets|union sign
-139,Prime number,primality|prime numbers in nature|prime number|1 no longer prime|ℙ|odd prime|even primes|primalities|prime|prime-number|prime numbers|primes|prime-numbers|euclidean prime number theorem|table of primes list|odd prime number|uncompound number|infinity of primes
-140,Secant line,secantial|secant|secant line
-141,Addition,addishun|adding|augend|addends|identity property of addition|addend|summand|1+1=2|addition of natural numbers/proofs|addition|addition table|summands|addition in n|1 + 1 = 2|addition of natural numbers
-142,Trigonometric substitution,inverse trigonometric substitution|integration by trigonometric substitution|trigonometric substitutions|trigonometric substitution|trig substitution|hyperbolic substitution|trig sub
-143,Arithmetic mean,mean|standard mean|averaged|statistical mean|x̄|sample means|arithmetical mean|mean average|arithmetic mean
+105,Polynomial long division,long division of polynomials|polynomial long division
+106,Equation,equation
+107,Binomial coefficient,binomial coefficients|binomial coefficient
+108,Zero (complex analysis),zero
+109,Universal quantification,given any|universal quantification|for every|for any|∀|universally quantify|universal quantifier|for all
+110,Image (mathematics),image|preimage
+111,Plane curve,plane curves|complex plane curve|plane curve
+112,Exponential function,exponential function
+113,Origin (mathematics),⌱|origin|coordinate origin
+114,Symmetry,symmetries|symmetry|symmetric|symmetrical
+115,Coordinate system,coordinates|coordinate system|coordinate
+116,Descartes' rule of signs,descartes' rule of signs|descartes' law of signs|descartes' sign rule
+117,Function (mathematics),function
+118,Square root,square root|square roots|sqrt
+119,Radius,radius|radii
+120,Trigonometry,trigonometery|trigonometry
+121,Vector field,field of vector|vector field
+122,Rationalisation (mathematics),rational expression|rationalisation
+123,Existential quantification,existential quantifier|∃|existential quantification|existential proposition|there exists|there exist
+124,Circular motion,circular motion
+125,Circular sector,circular sector|sector|circle sector|sector area
+126,Displacement (vector),displacement
+127,Pythagorean trigonometric identity,pythagorean identity|pythagorean trigonometric identities|pythagorean trigonometric identity
+128,Nth root,surds and indices|complex zero|radicand|nth root
+129,Product (mathematics),mathematical product|product
+130,Cartesian coordinate system,cartesian coordinate|cartesian plain|cartesian coordinate system|cartesian|rectangular coordinate system|cartesian coordinates
+131,Rational number,rational expressions|rational number|rational numbers|rational field|rationalnumbers
+132,Position (vector),position function|radius vector|position vector|location vector|point vector|position
+133,Equation solving,solving equations|equation solving|mathematical solution|solving an equation
+134,Algebraic operation,algebraic operations|algebra operations|algebraic operation
+135,Even and odd functions,even/odd function|even functions|even function|odd function|odd functions|even and odd functions|odd and even functions
+136,Number,number
+137,Multiplication,multiply|multiplication|product
+138,Union (set theory),union|set union|set theoretic union
+139,Prime number,primes|prime number
+140,Secant line,secant line|secant
+141,Addition,addition|add
+142,Trigonometric substitution,trigonometric substitutions|trigonometric substitution
+143,Arithmetic mean,sample means|standard mean|arithmetical mean|x̄|averaged|mean average|statistical mean|arithmetic mean|mean
 144,Synthetic division,synthetic division
-145,Piecewise,piecewise|piecewise continuity|piecewise-continuous|piecewise functions|piecewise smooth|piecewise continuous|piecewise continuously differentiable path|piecewise continuously differentiable|piecewise function|piecewise differentiable|piecewise defined function
-146,Inverse function,function inverse|inverse operator|inverse map|inverse mapping|inverse operation|the inverse operation|inverse process|inverse|left inverse function|inverse function|invertible function|inverse functions|functional inverse
-147,Scalar (mathematics),scalar|base field|basefield
-148,Rotation of axes,rotation of axes
-149,Quadratic equation,ax^2+bx+c|quadratic equations|abc formula|second-degree equation|the quadratic equation|ax² + bx + c|quadratic equation|quadratic solution formula|second degree equation|bhaskarachārya's formula|quadform|quadratic factoring formula|ax2 + bx + c|quadratic model|ax2+bx+c|bhaskaracharya's formula
-150,Absolute value,absolute value of number|abs|modulus of complex number|fabs|absolute value|module of a complex number|complex abs|math.fabs|modulus function|absolute square|absolute values
-151,Limit of a sequence,divergent sequence|topological convergence|null sequence|convergent sequence|limit of a sequence
-152,Linear equation,linear equation|point-slope form|first degree equation|first-degree equation|slope-intercept form|line equation|slope-intercept|point slope form|y-b=m|y = mx + b|point slope formula|ax+by=c|intercept terms|y-y1=m|y=mx+b|linear equations|y=x|equation of a line|equation of a straight line|point-slope equation|linear equality|slope intercept form|point-slope|y=mx+c|equation of the straight line|point-slope formula
-153,Polar coordinate system,polar degree|polar angle|polar coord|polar graph|polar coordinate plane|polar coordinates|polar graphs|polar equation|polar coordinate systems|polar graphing|polar coordinate system|polar cordinates|polar distance|polar plane|polar coords|radial distance|polar co-ordinates|circular coordinates|polar plot|polar coordinate|circular coordinate system|centrifugal force|polar coordinates system|polar system|polar geometry
-154,Infinity,infinite|the infinite|infinity|taylor archibald|illimitability|infinitely large|infinitude|mathematical infinity|infinate|sideways 8|history of infinity|complex infinity|illimitably|infinity point|unendlichkeit|infinitely|sideways eight|infinite + 1|poland's flow
-155,Determinant,determenant|determanent|determinant theorem|determinant expansion by minors|determinant of a matrix|determinant mathematics|matrix determinant|determinant|determinants
-156,Identity matrix,identity matrices|unit matrix|identity matrix|unity matrix
-157,Quadratic formula,derivation of the quadratic formula|derivation of quadratic formula|quadratic formula
-158,Transformation (function),trans shapes|mathematical transformation|mathematical transformations|trans shaped|transhapes|continuous transformation|transshaping|transhape|trans-shaped|discrete transformation|transshape|transhaped|partial transformation|transform|trans-shape|transshaped|transhaping|transshapes|transformation|trans shape|trans-shapes|trans shaping|trans-shaping
-159,Complex number,complex-valued|ℜ|ℑ|complex addition|principal argument|real and imaginary parts|imaginary part|c number|complex domain|history of complex numbers|nombre complexe|complex getal|imaginary plane|c numbers|complex division|complex arithmetic|non real numbers|classification of complex numbers|argand diagram|real part|complex field|a+ib|polar form|complex number|complex number field|wessel diagram|mod-arg form|ℂ|complex numbers|negative square roots
-160,Orientation (geometry),attitude|attitude quaternion|orientation quaternion|orientation matrix|attitude matrix|orientation|attitude vector|orientation vector|spatial orientation
-161,Cubic function,cubical equation|cubic model|cardano's formula|cardanic formulae|chebyshev cube root|cardan's solution|general cubic formula|cardano's formulae|third degree equation|cardano formulae|cubic equations|bipartite cubic|cardan formula|cubic polynomial|cubic formula|cardano's method|cardano formula|third-degree equation|cubic equation|cubic functions|cubic function|the special cubic formula
-162,Trigonometric tables,trigonometric tables|meridional parts|sine table|meridional distance|generating trigonometric tables|trig table|trigonometric table|generating sinus-tables
-163,Matrix (mathematics),empty matrix|real matrix|matrix equation|infinite matrix|matrix|matrix theory|square submatrix|matrix math|equal matrix|real matrices|matrix notation|matrix index|square|matrix element|submatrices|principal submatrix|submatrix|matrix operation|matrix theory and linear algebra
-164,Derivative,first derivative|definition of the derivative|ordinary derivative|2nd derivative|dydx|strong derivative|deriviative|alternate definition of derivative|differentiation|instantaneous rates of change|derative|fourth derivative|higher derivative|dy dx|derviative of a function|f'|derivied|derivation|differentiabillity|d/dx|differentation|fifth derivative|derivitives|prime notation|instantaneous rate of change|instantaneous velocities|derivative|derivative of a function|derivitive|order of derivation
-165,Force,attractive|force|forc|elastic force|unit of force|fource|amain|force vector|physical force|pull|forces|nonconservative force
-166,Monotonic function,weakly decreasing|monotonic predicate|monotonically nonincreasing|monotone operator|monotonic sequence|nondecreasing function|monotone transformation|monotonically decreasing|monotonic function|monotone map|monotonically increasing|absolutely monotonic function|monotonicity theorem|monotonic|weakly increasing|order morphism|nonincreasing function|decreasing function|increasing operator|decreasing operator|montone decreasing|antitone|monotone function|order-preserving|monotonic transformation|order-reversing|monotone boolean function|strictly increasing|monotonicity|antitonic|non-decreasing function|strictly monotone|absolutely monotonic sequence|strictly increasing function|monotone increasing|monotonically nondecreasing|increasing|absolute monotonic sequence|monotone sequence|monotone decreasing|increasing function|monotonically non-decreasing|monotonic series|strictly decreasing|decreasing
-167,Vector (mathematics and physics),vector|vectors|vector in mathematics and physics|vectors in mathematics and physics
-168,E (mathematical constant),e|mathematical constant e|e constant|base of the natural logarithm|base of natural logarithms|euler's number|napier constant|℮|e approximations|base of natural logarithm|number e|2.71828|exponential constant|eulers number|e - base of natural logarithm|natural log base|7427466391|napier's constant|exp|ℯ|euler’s number|2.71828...|base of natural logaritms|2.71
-169,Equality (mathematics),multiplication and division properties of equality|symmetric property of equality|≟|substitution property of equality|≣|addition and subtraction properties of equality|equality mathematics|reflexive property of equality|equal|division property of equality|⊜|mathematical equality|identity relation|transitive property of equality|equality
-170,Inverse element,left inverse element|quasi-inverse|one-sided inverse|inverse elements|inverse|invertible|right invertible|⁻¹|inverse element|left invertible
-171,Geometric progression,geometric sequences|finite geometric series|geometric sequence|larn-1|geometrical progression|geometric progression
-172,Real line,the real number line|real number line|real line
-173,Formula,formulas in mathematics|mathematical formula|formulas|gf formula|scientific formula|formulae|formulæ|mathematical formulas|formula
-174,Parallel (geometry),parallel planes|∥|parallel propagation|non parallel|parallel lines|⋕|parellel lines|parallel plane|not parallel|∦|parallel line|parallela|nonparallel|⦷|parallel|parallel lines in hyperbolic geometry|parallel lines and parallel planes|non-parallel
-175,Basis (linear algebra),basis|convex basis|linear basis|coordinate|hamel basis|ordered basis|algebraic basis|vector basis|vector space basis|hamel bases|basis of a vector space|basis element|linear algebra/basis for a vector space|component of a vector|basis vector|basis vectors|cone basis|affine basis
-176,Right triangle,right triangle|right angled triangle|right angle triangle|rectangular triangle|right-angled triangle
-177,Linear inequality,linear inequality|systems of linear inequalities|linear inequalities|system of linear inequalities|set of linear inequalities
-178,Vertical line test,vertical line test
-179,Real number,real|real axis|reall numbers|set of real numbers|real number|ℝ|number axis|real number system|axiomatic real number|the complete ordered field|field of reals|real number field|real numbers|complete ordered field|set of rational numbers|bounded real-valued data
-180,Scalar multiplication,scalar multiplication|scalar multiple
-181,Work (physics),work done|work energy theorem|work physics|work|work-kinetic energy theorem|work kinetic energy theorem|w=fd|rotational work|physics work|mechanical work|work-energy theorem
-182,Triangular matrix,forward substitution|unitriangular|lower triangular|backsubstitution|triangularizable|upper triangular matrices|triangular matrix|triangular factor|triangular matrices|left triangular matrix|unit triangular matrix|upper triangular matrix|strictly upper triangular matrix|strictly lower triangular matrix|back-substitution|lower triangular matrix|triangular form|right triangular matrix|upper triangular|unitriangular matrix|lower triangular form|trapezoidal matrix|strictly upper triangular|gauss matrix|upper-triangular matrix|upper-triangular|lower-triangular matrix|upper triangular form|back substitution|simultaneously triangularizable
-183,Degree of a polynomial,nonic equation|hectic equation|degree of a polynomial|polynomial degree|octic equation|total degree|decic equation
-184,Integer,rational integer|z|construction of the integers|discrete number|signed numbers|set of integers|integer value|interger|intergar|entier relatif|integer number|integer-valued|integer|negative integer|zahlen|integar|ℤ|integers|integernumbers
-185,Periodic function,periodic waveform period|period length|non-periodic|periodic signal|periodic motion|aperiodic|antiperiodic function|period of a function|periodic functions|aperiodic function|periodic solution|periodical function|periodicity condition|periodic function|period
-186,Expression (mathematics),arithmetic expression|mathematical expressions|compound expression|finite expression|expression|mathematical expression|algebraical quantity
-187,Empty sum,empty sum|nullary sum|sum
-188,Curve,double-pointer|double pointing|mechanical curve|mathematical curves|simple curve|double-pointed|double-pointing|curve|double-pointers|double pointed|double-points|doublepointers|rectifiable path|doublepointed|doublepoints|open curve|doublepoint|regular curve|space curves|curved|continuous path|doublepointing|double pointers|curved line|doublepointer|sharp curve|space curve|mathematical curve|differentiable curve|double-point|double pointer|skew curve|closed curve|1-manifold
-189,Rational root theorem,rational root|rational root test|rational root theorem|rational zeroes test|rational roots|rational roots theorem
-190,Spherical law of cosines,spherical law of cosines|law of cosines
-191,Linear function,arithmetic growth|linear growth|linear functions|linear function|linear factor|linear factors
-192,Asymptote,vertical asymptote|asymptote|asymptotically|oblique asymptote|asymptotic limit|vertical asymptotes|asymptotes|asymptot|asymptotic|asintope|horizontal asymptotes|asymptoting|asymptotical|assymptote|asymptotic function|horizontal asymptote|asymtote|slant asymptote
-193,Elementary matrix,elementary row operations|elementary matrix|row operations|elementary operations|elementary matrices|elementary row operation|elementary matrix transformations
-194,Cross product,vectorial product|crossproduct|evaluating cross-products|⨯|xyzzy|evaluating cross products|vector product|sarrus's scheme|cross product matrix|three-dimensional cross product|cross-product|vector cross product|cross product|ccw test|cross products
-195,Differential equation,second order equation|diffyeq|differental equations|differential equations from mathematical physics|diff eq'n|diff eq|differential equations from outside physics|differential equations of mathematical physics|order|second-order differential equation|differential equation|differential equations|diffeq
-196,Parametric equation,parametrized|parametrically defined curve|parametric equation|parametric form|parametric coords|parametric representation|parametric variable|parametric plots|parametric curve|parametric equations|parametric solution|parametric plot
-197,Polygon,all the 2d shapes|names of polygons|adjacent side|myriagon|polygonal|polygonal region|polygon vertex|hectagon|polygon area|n-gons|regular nonagon|polygon diameter|n-gon|enneacontagon|octacontagon|1000-gon|hectogon|hexacontagon|polygonal area|definition of polygon|polygon|irregular polygon|polygon edge|tricosagon|icosimonogon|ngon|tetracosagon|2-dimensional polytope|1000-gons|pentacontagon|icosikaitetragon|polygons|irregular polygons|chiliogon|heptacontagon|2-polytope|polygon diagonal|icositetragon
-198,Distance,directed distance|distance|time distance|equi-distant|distance formula|proximity|algebraic distance|distances|distance in time|proximities
-199,Exponentiation,laws of exponentiation|to the power of|zero to the zeroth power|laws of indices|laws of exponents|exponent|pow function in c|zero to power zero|zero to the zero power|rules of exponents|zero to the power of zero|exponention|zero to the power zero|first law of indices|indices|power|zero raised to zero|zero power zero|mathematical power|0 to the power of 0|exponentiation ofer sets|multiplying exponents|zeroth power|0^0|raised to the power|exponentation|zero raised by zero|exponents|exponential functions|complex numbers exponential|0⁰|math.pow|exponental relationships|0 to the 0|raised to the power of|indices laws|second law of indices|third law of indices|negative exponents|exponentiation over sets|**|a^b|exponentiation|fraction power|exponentiate|exponentiating
-200,Function composition,composition function|functional power|composition of maps|generalized composition|compound functions|composition|generalized composite|∘|function composition|composite function|composition of functions|compose|functional composition|○
-201,Geometry,geometric properties|geometric features|elementary geometry|geometrically|geometrical|geomertry|geometic|geometry|geometery|geometric|geometrical property
-202,Range (mathematics),range of a function|range math|function range|range
-203,Limit of a function,limit of a function|algebraic limit theorem|limit|improper limits|limit at infinity|limit rules of functions
-204,Arithmetic,arithmatic|arithmetic operators|arithmetic operations|arithmetic operation|history of arithmetic|arithmetics|arithmetician|arithmetic operator|aritmetika|arithmetic|arithmetik|+-*/|+−×÷|arithmetical operations|rithmetic|+-x/|multiplicative operator|additive operator
-205,Scientific notation,₁₀|notation normalized|⏨|decimal exponent|normalised notation|scientific notation|scinote|notation scientific|base-2 scientific notation|e-format|standard index notation|scientific notaion|exponential notation|standard index form|notation|normalized notation|e notation
-206,Factorization,perfect square trinomials|factored|factorization|common factor|difference of two cubes|factorisation theorem|factorise|difference between two cubes|factorize|factorisation|factorization problem|factorization theorem
-207,Minor (linear algebra),minor|matrix of minors|principal minor|cofactor|matrix minor|minor determinant|matrix of cofactors|cofactor matrix|matrix cofactors
-208,Matrix multiplication,matrix multiplication|fast matrix multiplication algorithms|direct product|matrix product|hadamard matrix product|matrix-vector multiplication|frobenius inner product|matrix multiply|matrix vector multiplication|algorithms for matrix multiplication|matrix-vector product|matrix concatenation|computational complexity of matrix multiplication|matrix multiplication algorithm|multiplying matrices|fast matrix multiplication
-209,Main diagonal,main diagonal|minor diagonal|antidiagonal|counterdiagonal|principal diagonal|leading diagonal|counter diagonal
-210,Change of variables,substitution of variables|substitution principle|plugging in|coordinate transform|change of variable|variable substitution|substitution|plug and chug|principle of substitution|change of variables
-211,Homogeneous polynomial,quantics|form|homogeneous polynomials|homogenization of a polynomial|algebraic forms|homogeneous polynomial|homogenous polynomial|homogeneous form|algebraic form|inhomogeneous polynomials|inhomogeneous polynomial
-212,Area,area|areas of basic shapes|area measure|area of figure|areas|area of plane region|area formula
-213,Line (geometry),hyperpoint|mathematical formula for a line|line|straightness|dimension line|straight-line|straight lines|half line|straight line segment|lineamentation|half-line|mathematical line|ray|collinear points|horizontal line|megalineament|co-linear|non-collinear points|lineamental|straight line|lineaments
-214,Partial fraction decomposition,partial fractions|partial fraction|integration by partial fractions|partial fraction decomposition over the reals|method of partial fractions|partial fraction expansion|partial fraction decomposition over r|partial fractions decomposition|partial fractions in integration|partial fraction decomposition
-215,Distributive property,distributivity|superdistributivity|distribution|distributive law|distributive property|super-distributivity|subdistributivity|right distributive law|sub-distributivity
-216,Parity (mathematics),odd and even numbers|odd numbers|even integer|even and odd numbers|odd number|even digits|even number|odd integer|even and odd|even digit|odd digits|even numbers|parity|odd digit
-217,Euclidean vector,vector component|vector methods|free vector|bound vector|vector sum|euclid vector|relative vector|vector components|vector subtraction|magnitude of resultant vector|physical vector|euclidean vectors|geometric vector|triangle law|spatial vector|three-vector|component|euclidian vector|euclidean vector|vector addition|spacial vector|3d vector|vector
-218,Quadrant (plane geometry),quadrant|4-quadrant cartesian coordinate plane|first quadrant of the cartesian plane
-219,Minute and second of arc,minute and second of arc|minute arc|second arc|second of arc|minute of arc
+145,Piecewise,piecewise
+146,Inverse function,inverse function|function inverse|inverse of function
+147,Scalar (mathematics),scalar
+148,Rotation of axes,rotation of axis|rotaion axis|rotation of axes
+149,Quadratic equation,quadratic equation
+150,Absolute value,modulus function|absolute value
+151,Limit of a sequence,limit of a sequence|limit of sequence
+152,Linear equation,linear equations|point-slope|linear equation
+153,Polar coordinate system,radial distance|circular coordinates|polar graph|polar coordinate system|polar geometry|polar coordinates|polar coordinate
+154,Infinity,infinity
+155,Determinant,determinant
+156,Identity matrix,identity matrix|identity matrices|unity matrix|unit matrix
+157,Quadratic formula,quadratic formula
+158,Transformation (function),transformation
+159,Complex number,complex number
+160,Orientation (geometry),orientation
+161,Cubic function,cubic equation|cubic|cubic function
+162,Trigonometric tables,trigonometric values|trigonometric tables
+163,Matrix (mathematics),matrix|matrice
+164,Derivative,derivative|differentation
+165,Force,force
+166,Monotonic function,monotonic|montone|monotonic function
+167,Vector (mathematics and physics),vector
+168,E (mathematical constant),euler's number|napier's constant|e|base of natural logarithm|eulers number
+169,Equality (mathematics),equality
+170,Inverse element,inverse element|inverse of element
+171,Geometric progression,gp|geometric progression|geometric sequences
+172,Real line,real line|real number line
+173,Formula,formula
+174,Parallel (geometry),parallel
+175,Basis (linear algebra),basis
+176,Right triangle,right angle triangle|rectangular triangle|right-angled triangle|right angled triangle|right triangle
+177,Linear inequality,inequality|linear inequality
+178,Vertical line test,test vector|vertical line test
+179,Real number,real number
+180,Scalar multiplication,scalar multiple|scalar multiplication
+181,Work (physics),work
+182,Triangular matrix,triangular matrix
+183,Degree of a polynomial,degree of polynomial|degree of a polynomial|polynomial degree
+184,Integer,integer
+185,Periodic function,periodic function|period
+186,Expression (mathematics),expression
+187,Empty sum,empty sum
+188,Curve,curve
+189,Rational root theorem,rational root test|rational roots|rational roots theorem|rational root theorem|rational zeroes test|rational root
+190,Spherical law of cosines,law of cos|spherical law of cosines|law of cosines
+191,Linear function,arithmetic growth|linear function|linear factors|linear factor|linear growth|linear functions
+192,Asymptote,asymptotic|asymptote
+193,Elementary matrix,elementary matrices|elementary row operation|row operations|elementary operations|elementary matrix transformations|elementary matrix|elementary row operations
+194,Cross product,cross product|sarrus's scheme|vector cross products
+195,Differential equation,differential equation|second order equation|second-order differential equation
+196,Parametric equation,parametric curve|parametric equation|parametric|parametrized
+197,Polygon,polygon
+198,Distance,distance
+199,Exponentiation,exponential functions|raised to the power|exponent|power|exponentiation|raised to the power of
+200,Function composition,composition of functions|functional compositio|composite function|function composition
+201,Geometry,geometric|geometry
+202,Range (mathematics),range
+203,Limit of a function,algebraic limit theorem|improper limits|limit at infinity|limit of a function|limit rules of functions|limit
+204,Arithmetic,arithmetic|additive operator|multiplicative operator
+205,Scientific notation,scientific notation|standard index notation
+206,Factorization,factorize|common factor|factorisation|factorization
+207,Minor (linear algebra),cofactor|minor|minor determinant
+208,Matrix multiplication,matrix multiplication|matrix-vector multiplication|multiplying matrices|matrix product|matrix concatenation
+209,Main diagonal,main diagonal|leading diagonal|minor diagonal|principal diagonal|antidiagonal|counter diagonal
+210,Change of variables,substitution of variables|change of variables|change of variable
+211,Homogeneous polynomial,algebraic form|homogeneous polynomial|homogeneous form
+212,Area,area
+213,Line (geometry),line|ray
+214,Partial fraction decomposition,partial fraction decomposition|partial fraction
+215,Distributive property,distributive property|distributive law
+216,Parity (mathematics),odd integer|even integer|parity|even number|odd number
+217,Euclidean vector,euclidean vector|vector
+218,Quadrant (plane geometry),quadrant
+219,Minute and second of arc,minute and second of arc|second arc|minute arc|second of arc|minute of arc
 220,Line–line intersection,line intersection|line–line intersection
 221,Edge,edge
-222,List of mathematical symbols,symbols|list of mathematical symbols|maths symbols|list of symbols|mathematical symbols
+222,List of mathematical symbols,mathematical symbols|list of symbols|symbols|maths symbols|list of mathematical symbols
 223,Equality,equality
