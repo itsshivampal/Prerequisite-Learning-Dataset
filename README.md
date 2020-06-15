@@ -25,6 +25,7 @@ Using the labelled pairs, .wikifis data and PDF Textbook of each domain, we furt
 ## Data Description
 
 ### Raw Data
+This folder contains the data which we had used to process the required data. This data is taken from previous research.
 
 ### Processed Data
 - *Domain/processed_data/Domain_labeled_pairs.csv* : Containg labeled pairs (A, B, r), if r = 1 then B is a prerequisite of A and if r = 0 then B is not a prerequisite of A
