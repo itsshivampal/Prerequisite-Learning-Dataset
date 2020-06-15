@@ -19,7 +19,7 @@ Domain | # Concepts | # Pairs | # Prerequisites | # Wiki Aritcles | Concept Syno
 <!-- <br> -->
 <!-- **Precalculus**: [Stewart, James, Lothar Redlin, and Saleem Watson. Precalculus: Mathematics for calculus. Cengage Learning, 2015](https://erhsnyc.enschool.org/ourpages/auto/2018/9/4/44663551/Precalculus%20Book.pdf) -->
 
-### Preprocessing of previously available dataset
+### Preprocessing of Available Dataset
 Using the labelled pairs, .wikifis data and PDF Textbook of each domain, we further added Wikipedia Data (May, 2020 Dump), Concept Synoym Terms and Normalised Textbook data having ToC Section, Title and Chapter Content
 
 ## Data Description
@@ -27,8 +27,18 @@ Using the labelled pairs, .wikifis data and PDF Textbook of each domain, we furt
 ### Raw Data
 
 ### Processed Data
+- <Domain>/processed_data/<Domain>labeled_pairs.csv : Containg labeled pairs (A, B, r), if r = 1 then B is a prerequisite of A and if r = 0 then B is not a prerequisite of A
+- <Domain>/processed_data/<Domain>correct_wikipedia_data.csv : Contains Wikipedia Data for each key-concepts, having - title, summary, content, html content, link structure, internal ToC of page
+- <Domain>/processed_data/<Domain>normalized_content.csv : Contains normalised Textbook Data from above mentioned book, having - ToC Section, Title, Chapter Content, Normalised Chapter Content
+- <Domain>/processed_data/<Domain>concepts_ambiguity.csv : Contain synonym terms for each key-concepts which can be used in place of actual concept
+
 
 ## Source Code
+*src* folder contains all the codes which we developed for processing the data from *raw_data* to *processed_data*
+- get_labeled_pairs/ : contain codes for processing labeled pairs
+- get_wiki_data/ : contain codes for extracting and saving wikipedia data for concepts
+- get_book_data/ : contain codes for extracting and normalizing book data
+- get_concepts/ : contain codes for processing concept_ambiguity file
 
 ## Citation
 ```
