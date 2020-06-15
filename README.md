@@ -27,10 +27,10 @@ Using the labelled pairs, .wikifis data and PDF Textbook of each domain, we furt
 ### Raw Data
 
 ### Processed Data
-- Domain/processed_data/Domain_labeled_pairs.csv : Containg labeled pairs (A, B, r), if r = 1 then B is a prerequisite of A and if r = 0 then B is not a prerequisite of A
-- Domain/processed_data/Domain_correct_wikipedia_data.csv : Contains Wikipedia Data for each key-concepts, having - title, summary, content, html content, link structure, internal ToC of page
-- Domain/processed_data/Domain_normalized_content.csv : Contains normalised Textbook Data from above mentioned book, having - ToC Section, Title, Chapter Content, Normalised Chapter Content
-- Domain/processed_data/Domain_concepts_ambiguity.csv : Contain synonym terms for each key-concepts which can be used in place of actual concept
+- *Domain/processed_data/Domain_labeled_pairs.csv* : Containg labeled pairs (A, B, r), if r = 1 then B is a prerequisite of A and if r = 0 then B is not a prerequisite of A
+- *Domain/processed_data/Domain_correct_wikipedia_data.csv* : Contains Wikipedia Data for each key-concepts, having - title, summary, content, html content, link structure, internal ToC of page
+- *Domain/processed_data/Domain_normalized_content.csv* : Contains normalised Textbook Data from above mentioned book, having - ToC Section, Title, Chapter Content, Normalised Chapter Content
+- *Domain/processed_data/Domain_concepts_ambiguity.csv* : Contain synonym terms for each key-concepts which can be used in place of actual concept
 
 
 ## Source Code
