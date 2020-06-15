@@ -12,7 +12,10 @@ Domain | # Concepts | # Pairs | # Prerequisites | # Wiki Aritcles | Concept Syno
 
 #### Textbooks
 **Geometry**: [Dan Greenberg, Lori Jordan, Andrew Gloag, Victor Ci- farelli, Jim Sconyers,Bill Zahnerm, ”CK-12 Basic Geometry](https://zirklelanguagearts.files.wordpress.com/2013/01/ck-12-geometry-concepts_b_v2_0je_s1.pdf)
-
+<br>
+**Physics**: [Mark Horner, Samuel Halliday, Sarah Blyth, Rory Adams, Spencer Wheaton, ”Textbooks for High School Students Studying the Sciences”, 2008](http://nongnu.askapache.com/fhsst/fhsstadmin126-incsub.pdf )
+<br>
+**Precalculus**: [Stewart, James, Lothar Redlin, and Saleem Watson. Precalculus: Mathematics for calculus. Cengage Learning, 2015](https://erhsnyc.enschool.org/ourpages/auto/2018/9/4/44663551/Precalculus%20Book.pdf)
 
 
 ### Preprocessing of previously available dataset
