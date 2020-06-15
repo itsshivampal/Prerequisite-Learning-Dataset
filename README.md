@@ -1,8 +1,14 @@
 # Prerequisite Learning Dataset
-This is the Prerequisite Learning Dataset
-
+This is the dataset for learning Prerequisite Relationships using the rich information available in Textbook
 
 ## Summary
+The dataset is built upon the AL-CPL dataset by Liang et al, (2018) and Wiki concept map dataset by Wang et al. (2016). For each domain, the dataset consists of prerequisite pairs, wikipedia data and Textbook data. The table below summarizes the statistics of the our final processed dataset.
+
+Domain | # Concepts | # Pairs | # Prerequisites | # Wiki Aritcles | Book Data
+ ---   | --- | --- | --- | --- | ---
+ Geometry | 89 | 1681 | 524 | 89 | Available
+ Physics | 152 | 1962 | 487 | 152 | Available
+ Precalculus | 224 | 2060 | 699 | 224 | Not Available
 
 
 ### Preprocessing of previously available dataset
@@ -18,7 +24,7 @@ This is the Prerequisite Learning Dataset
 
 ## Citation
 ```
-Here will be the citation of our paper
+Here we will mention the citation of our paper
 ```
 
 ### Refrences
