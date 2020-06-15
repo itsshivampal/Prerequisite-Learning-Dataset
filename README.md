@@ -11,7 +11,7 @@ Domain | # Concepts | # Pairs | # Prerequisites | # Wiki Aritcles | Concept Syno
  Precalculus | 224 | 2060 | 699 | 224 | Available | Not Available 
 
 #### Textbooks
-*Geometry*: \href{https://zirklelanguagearts.files.wordpress.com/2013/01/ck-12-geometry-concepts_b_v2_0je_s1.pdf }{Dan Greenberg, Lori Jordan, Andrew Gloag, Victor Ci- farelli, Jim Sconyers,Bill Zahnerm, ”CK-12 Basic Geometry”}
+**Geometry**: [Dan Greenberg, Lori Jordan, Andrew Gloag, Victor Ci- farelli, Jim Sconyers,Bill Zahnerm, ”CK-12 Basic Geometry](https://zirklelanguagearts.files.wordpress.com/2013/01/ck-12-geometry-concepts_b_v2_0je_s1.pdf)
 
 
 
