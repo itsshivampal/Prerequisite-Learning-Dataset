@@ -10,16 +10,17 @@ Domain | # Concepts | # Pairs | # Prerequisites | # Wiki Aritcles | Concept Syno
  Physics | 152 | 1962 | 487 | 152 | Available | Available
  Precalculus | 224 | 2060 | 699 | 224 | Available | Not Available 
 
-#### Textbooks
+### Textbooks
 **Geometry**: [Dan Greenberg, Lori Jordan, Andrew Gloag, Victor Ci- farelli, Jim Sconyers,Bill Zahnerm, ”CK-12 Basic Geometry](https://zirklelanguagearts.files.wordpress.com/2013/01/ck-12-geometry-concepts_b_v2_0je_s1.pdf)
+<br>
 <br>
 **Physics**: [Mark Horner, Samuel Halliday, Sarah Blyth, Rory Adams, Spencer Wheaton, ”Textbooks for High School Students Studying the Sciences”, 2008](http://nongnu.askapache.com/fhsst/fhsstadmin126-incsub.pdf )
 <br>
-**Precalculus**: [Stewart, James, Lothar Redlin, and Saleem Watson. Precalculus: Mathematics for calculus. Cengage Learning, 2015](https://erhsnyc.enschool.org/ourpages/auto/2018/9/4/44663551/Precalculus%20Book.pdf)
-
+<!-- <br> -->
+<!-- **Precalculus**: [Stewart, James, Lothar Redlin, and Saleem Watson. Precalculus: Mathematics for calculus. Cengage Learning, 2015](https://erhsnyc.enschool.org/ourpages/auto/2018/9/4/44663551/Precalculus%20Book.pdf) -->
 
 ### Preprocessing of previously available dataset
-
+Using the labelled pairs, .wikifis data and PDF Textbook of each domain, we further added Wikipedia Data (May, 2020 Dump), Concept Synoym Terms and Normalised Textbook data having ToC Section, Title and Chapter Content
 
 ## Data Description
 
