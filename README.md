@@ -4,11 +4,15 @@ This is the dataset for learning Prerequisite Relationships using the rich infor
 ## Summary
 The dataset is built upon the AL-CPL dataset by Liang et al, (2018) and Wiki concept map dataset by Wang et al. (2016). For each domain, the dataset consists of prerequisite pairs, wikipedia data and Textbook data. The table below summarizes the statistics of the our final processed dataset.
 
-Domain | # Concepts | # Pairs | # Prerequisites | # Wiki Aritcles | Book Data
- ---   | --- | --- | --- | --- | ---
- Geometry | 89 | 1681 | 524 | 89 | Available
- Physics | 152 | 1962 | 487 | 152 | Available
- Precalculus | 224 | 2060 | 699 | 224 | Not Available
+Domain | # Concepts | # Pairs | # Prerequisites | # Wiki Aritcles | Concept Synonyms | Book Data
+ ---   | --- | --- | --- | --- | --- | ---
+ Geometry | 89 | 1681 | 524 | 89 | Available | Available
+ Physics | 152 | 1962 | 487 | 152 | Available | Available
+ Precalculus | 224 | 2060 | 699 | 224 | Available | Not Available 
+
+#### Textbooks
+*Geometry*: \href{https://zirklelanguagearts.files.wordpress.com/2013/01/ck-12-geometry-concepts_b_v2_0je_s1.pdf }{Dan Greenberg, Lori Jordan, Andrew Gloag, Victor Ci- farelli, Jim Sconyers,Bill Zahnerm, ”CK-12 Basic Geometry”}
+
 
 
 ### Preprocessing of previously available dataset
